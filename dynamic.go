@@ -1,9 +1,8 @@
 // dynamic and mixed type 
 
-
 package main
 import "fmt"
-func main()  {
+func main() {
 	var x float64 = 32.244
 	y := 345
 	var a, b, c, z = 34, 55, "SHASHI", 34.34
